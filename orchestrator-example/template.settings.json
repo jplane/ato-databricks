@@ -1,0 +1,15 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "AzureWebJobsDashboard": "",
+    "AzureWebJobsStorage": "",
+    "storageAccountConnectionString": "",
+    "storageAccountName": "",
+    "storageAccountKey": "",
+    "storageContainer": "input",
+    "storageFile": "Consumer_Complaints.csv",
+    "databricksUri": "https://YOUR-DATABRICKS-REGION.azuredatabricks.net",
+    "databricksPAT": ""
+  }
+}
